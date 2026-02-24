@@ -19,8 +19,8 @@ To implement a logistic regression model to classify food items for diabetic pat
 ```
 /*
 Program to implement Logistic Regression for classifying food choices based on nutritional information.
-Developed by: 
-RegisterNumber:  
+Developed by: ARTHI S
+RegisterNumber:  212225220011
 */
 ```
 ```
@@ -33,8 +33,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 df = pd.read_csv('food_items (1).csv')
-print("Name: KOPIGA N")
-print("Reg. No: 212225220053")
+print("Name: ARTHI S")
+print("Reg. No: 212225220011")
 print("Dataset Overview:")
 print(df.head())
 print("\nDataset Info:")
