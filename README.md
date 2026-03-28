@@ -75,7 +75,10 @@ plt.show()
 ```
 ## Output:
 
-![WhatsApp Image 2026-02-24 at 8 48 16 PM](https://github.com/user-attachments/assets/87bcbc8d-f924-4d84-86ea-71389c8eb66c)
+<img width="638" height="824" alt="Screenshot 2026-03-28 190940" src="https://github.com/user-attachments/assets/f20eb45b-1b79-427b-b20c-95e4cdd91469" />
+<img width="676" height="671" alt="Screenshot 2026-03-28 190955" src="https://github.com/user-attachments/assets/492e436f-fd91-4b2e-98d2-bd9e0d73f00a" />
+
+
 
 ## Result:
 Thus, the logistic regression model was successfully implemented to classify food items for diabetic patients based on nutritional information, and the model's performance was evaluated using various performance metrics such as accuracy, precision, and recall.
